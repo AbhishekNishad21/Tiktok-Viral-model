@@ -1,4 +1,4 @@
-Streamlit
-Numpy
-Matplotlib 
-Networkx
+streamlit
+numpy
+matplotlib 
+networkx
